@@ -1868,3 +1868,5 @@ uIStroke2.Parent = main
 
 return window
 end
+
+return library
